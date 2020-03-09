@@ -1,0 +1,49 @@
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\bin\Debug\UI.exe.config
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\bin\Debug\UI.exe
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\bin\Debug\UI.pdb
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\bin\Debug\BO.dll
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\bin\Debug\DAL.dll
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\bin\Debug\BO.pdb
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\bin\Debug\DAL.pdb
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\obj\Debug\View.csprojResolveAssemblyReference.cache
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\obj\Debug\UI.Add_Project.resources
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\obj\Debug\UI.Add_To_Do_List.resources
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\obj\Debug\UI.Change_Password.resources
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\obj\Debug\UI.Edit_Profile.resources
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\obj\Debug\UI.Edit_Project_Info.resources
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\obj\Debug\UI.Edit_To_Do.resources
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\obj\Debug\UI.Home.resources
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\obj\Debug\UI.Log_In.resources
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\obj\Debug\UI.Password_Confirmation.resources
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\obj\Debug\UI.Profile.resources
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\obj\Debug\UI.Project_Name.resources
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\obj\Debug\UI.Properties.Resources.resources
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\obj\Debug\UI.Registration.resources
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\obj\Debug\View.csproj.GenerateResource.Cache
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\obj\Debug\UI.exe
+D:\Literature\KU\3rd Year\2nd Term\Software Engineering\Lab Work\TaskManagementSystem\UI\obj\Debug\UI.pdb
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\bin\Debug\UI.exe.config
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\bin\Debug\UI.exe
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\bin\Debug\UI.pdb
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\bin\Debug\BO.dll
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\bin\Debug\DAL.dll
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\bin\Debug\BO.pdb
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\bin\Debug\DAL.pdb
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\obj\Debug\UI.Add_Project.resources
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\obj\Debug\UI.Add_To_Do_List.resources
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\obj\Debug\UI.Change_Password.resources
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\obj\Debug\UI.Edit_Profile.resources
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\obj\Debug\UI.Edit_Project_Info.resources
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\obj\Debug\UI.Edit_To_Do.resources
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\obj\Debug\UI.Home.resources
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\obj\Debug\UI.Log_In.resources
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\obj\Debug\UI.Password_Confirmation.resources
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\obj\Debug\UI.Profile.resources
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\obj\Debug\UI.Project_Name.resources
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\obj\Debug\UI.Registration.resources
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\obj\Debug\View.csproj.CopyComplete
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\obj\Debug\UI.exe
+C:\Users\SAM SIGMA\Downloads\TaskManagementSystem-master\UI\obj\Debug\UI.pdb
